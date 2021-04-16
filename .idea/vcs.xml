@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/case-teaching-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/case-teaching-web-old" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inspection-java-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inspection-web-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microwave/microwave-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nh-web" vcs="Git" />
+  </component>
+</project>

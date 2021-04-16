@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="icon_img">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/inspection-web-master/src/assets/icon_img.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

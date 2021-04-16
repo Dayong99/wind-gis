@@ -1,0 +1,15 @@
+
+http://localhost:8010/management/simulation/getPicture/{id}/{ifId}/{typeId}
+   id代表参量类型（1-7）
+   ifid代表考虑大气(1否，2是)
+   typeId代表类型（1亮温仿真，2敏感性分析）
+
+ http://localhost:8010/management/simulation
+
+
+ http://localhost:8010/management/dataInverting
+
+
+ http://localhost:8010/management/localPhoto/{{h}}
+    h代表赫兹在（6，10，18，23，36）
+
